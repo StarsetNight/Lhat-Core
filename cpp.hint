@@ -1,0 +1,2 @@
+#define LHATCORE64_API __declspec(dllexport)
+#define LHATCORE64_API __declspec(dllimport)

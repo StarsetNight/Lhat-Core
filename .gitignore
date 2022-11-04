@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/x64/Release
+/.vs/LhatCore64
+/LhatCore64.vcxproj.user
+/LhatCore64.vcxproj.filters
+/LhatCore64.vcxproj
+/LhatCore64.sln
